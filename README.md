@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with **people with Amazing Ideas.**
 
-- 🌱 I’m currently learning **React js , mongodb , Node js & building Projects in public.**
+- 🌱 I’m currently learning **AI integration & building Projects in public.**
 
 - 💬 Ask me about **HTML, CSS, Javascript , React js , Tailwind CSS**
 
