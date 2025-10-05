@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdirashid Ibrahim</h1>
-<h3 align="center">A passionate front-end developer in training, learning full-stack development and exploring new technologies to build scalable web solutions.🚀</h3>
+<h3 align="center">A passionate of full-stack developer and exploring new technologies to build scalable web solutions.🚀</h3>
 
-- 🔭 I’m currently working with **Html, Css, Javascript, Tailwindcss.**
+- 🔭 I’m currently working with **Html, Css, Javascript,  Tailwindcss, React js, Mongo-db , Node js.**
 
 - 👯 I’m looking to collaborate with **people with Amazing Ideas.**
 
-- 🌱 I’m currently learning **Javascript & building Projects in public.**
+- 🌱 I’m currently learning **React js , mongodb , Node js & building Projects in public.**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript , React js , Tailwind CSS**
 
 - 📫 How to reach me **neeykaraamo@gmail.com**
 
