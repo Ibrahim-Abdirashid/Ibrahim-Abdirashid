@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdirashid Ibrahim</h1>
-<h3 align="center">A passionate of full-stack developer and exploring new technologies to build scalable web solutions.🚀</h3>
+<h3 align="center"> full-stack developer  , exploring new technologies to build scalable web solutions.🚀</h3>
 
 - 🔭 I’m currently working with **Html, Css, Javascript,  Tailwindcss, React js, Mongo-db , Node js.**
 
