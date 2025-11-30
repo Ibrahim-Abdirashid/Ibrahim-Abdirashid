@@ -3,7 +3,7 @@
 
 
 ## **👋 Hi, I'm Abraham Razhid!**  
-🚀 **Full-Stack Developer | WordPress Expert | Open-Source Enthusiast**  
+🚀 **Full-Stack Developer | Open-Source Enthusiast**  
 
 full-stack developer , exploring new technologies to build scalable web solutions.🚀  
 
@@ -16,6 +16,7 @@ full-stack developer , exploring new technologies to build scalable web solution
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![mongodb](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
