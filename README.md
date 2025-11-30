@@ -53,7 +53,7 @@ full-stack developer , exploring new technologies to build scalable web solution
 
 
 ## **📬 Let's Connect!**  
-💼 **GitHub:** [ABDIRIZAK-30](https://github.com/Ibrahim-Abdirashid)  
+💼 **GitHub:** [Ibrahim-Abdirashid](https://github.com/Ibrahim-Abdirashid)  
 📧 **Email:** Neeykaraamo@gmail.com
 
 
