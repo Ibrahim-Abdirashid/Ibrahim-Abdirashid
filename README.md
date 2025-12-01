@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=20F7FF&center=true&vCenter=true&width=850&height=100&lines=Deko+Hussein+Said+%7C+Full+Stack+Developer;Committed+to+Innovation+and+Problem+Solving;Passionate+about+AI+and+Machine+Learning+Integration;Always+focused+on+learning+and+delivering+cutting-edge+solutions" alt="Typing SVG" />
+</p>
 <img src="/Untitled-2-01.png" width="100%">
 
 
